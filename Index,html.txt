@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: blue;
+        }
+        h2 {
+            color: green;
+        }
+        .socials a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: white;
+            color: black;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        .socials a:hover {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hello my name is tebogo</h1>
+    
+    <h2>About Me</h2>
+    <p>I do coding</p>
+
+    <h2>My Socials</h2>
+    <div class="socials">
+        <a href="https://wa.me/27712721562">WhatsApp</a>
+        <a href="https://instagram.com/">Instagram</a>
+        <a href="https://facebook.com/">Facebook</a>
+        <a href="https://tiktok.com/@AlexT.A">TikTok</a>
+    </div>
+
+</body>
+</html>
